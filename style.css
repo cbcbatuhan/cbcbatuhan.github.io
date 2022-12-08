@@ -44,7 +44,7 @@ body {
 }
 
 .container .img {
-  background-image: url(/images/image-qr-code.png);
+  background-image: url(image-qr-code.png);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
